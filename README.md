@@ -14,9 +14,6 @@ CÓMO INICIAR ESTE PROYECTO:
 Descarga el proyecto y ábrelo en tu entorno de desarrollo.
 Ejecuta el archivo principal (main), que carga el archivo CSV de manera estática.
 Sigue las instrucciones en pantalla para procesar y visualizar los datos.
-AUTORES:
-José Axel Vera Ortiz
-Instituto Tecnológico de Oaxaca
 
 AUTORES:
 José Axel Vera Ortiz

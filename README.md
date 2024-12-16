@@ -24,4 +24,4 @@ José Axel Vera Ortiz
 INSTRUCCIONES PARA EL USUARIO:
 
 Asegúrate de que el archivo CSV esté correctamente preparado.
-pon la ruta del archivo csv estaticamen desde el archivo main. Los datos se cargarán automáticamente
+pon la ruta del archivo csv estaticamente desde el archivo main. Los datos se cargarán automáticamente

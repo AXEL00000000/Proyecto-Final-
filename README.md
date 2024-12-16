@@ -1,6 +1,6 @@
 # Proyecto-Final-
 TÍTULO DEL PROYECTO:
-Proyecto Final de la materia de Estructura de Datos
+Proyecto Final de la materia de Estructura de Datos, Instituto Tecnológico de Oaxaca.
 
 PROPÓSITO DEL PROYECTO:
 Desarrollar un programa que lea un archivo CSV, manipule datos utilizando estructuras de datos 
@@ -17,6 +17,9 @@ Sigue las instrucciones en pantalla para procesar y visualizar los datos.
 AUTORES:
 José Axel Vera Ortiz
 Instituto Tecnológico de Oaxaca
+
+AUTORES:
+José Axel Vera Ortiz
 
 INSTRUCCIONES PARA EL USUARIO:
 

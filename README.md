@@ -1,4 +1,5 @@
-# Proyecto-Final-TÍTULO DEL PROYECTO:
+# Proyecto-Final-
+TÍTULO DEL PROYECTO:
 Proyecto Final de la materia de Estructura de Datos
 
 PROPÓSITO DEL PROYECTO:
